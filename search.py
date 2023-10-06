@@ -136,7 +136,6 @@ def breadthFirstSearch(problem):
 
     return []
     
-    util.raiseNotDefined()
 
 def uniformCostSearch(problem):
     """Search the node of least total cost first."""
